@@ -23,4 +23,4 @@ What word is understood (not included) in the sentence: Sed frāter eōrum Ūran
 C. Translation
 Please translate the passage into idiomatic English.
 
-Chaos was the first god. She was the daughter of Nox and Terra, mother of all man. These were the mothers of Morta and Leta. Those sons were horrible monsters: Typhon, Python, and Cyclopes. Typhon and Python* were huge dragons and Cyclopes was a dumb workman. However, their brother Uranus was the first real god of the kingdom. This place was mighty and large, but rational. 
+Chaos was the first god. She was the daughter of Nox and Terra, mother of all man. These were the mothers of Mors and Letum. Those sons were horrible monsters: Typhon, Python, and Cyclopes. Typhon and Python* were huge dragons and Cyclopes was a foolish stoneworker. However, their brother Uranus was the first real god of the kingdom. This place was strong and large, but rational. 
