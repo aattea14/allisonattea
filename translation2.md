@@ -6,10 +6,10 @@ A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
 
 B. Grammatical Questions
-What is the grammatical function of Iapetī fīlius prīmus? 
-Parse fingēbat and tell me what conjugation it belongs to.
+What is the grammatical function of Iapetī fīlius prīmus? acts as a description of the subject.. adjective 
+Parse fingēbat and tell me what conjugation it belongs to. imperfect active verb 
 What type of adjective is huic, what case is it in, and what word does it agree with? means this/these, dative, agrees with feminae
-Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
+Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. transitive passive- omnes= adjective dei= subject dona= noun/ object ei=pronoun miserunt= verb 
 Parse data est and indicate what conjugation the verb belongs to. perfect, transitive, passive, nominative, 3rd, singular, indicative 
 What type of grammatical construction is ab Iove? preposition
 What tense is erat and what are the principle parts of the verb it comes from? imperfect tense, sum, esse, fui, futurus
