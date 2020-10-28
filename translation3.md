@@ -27,4 +27,4 @@ What type of construction is ab fulmine?
 prepositional phrase
 
 C. Translation
-Erechteus, the son of Pandionis, had four daughters. At that time, Eumolpus, son of Neptune, went to Athens to attack, but this is the way of life. Neptune, angry because the son was killed Erecchtheo, said "the daughter was sacrificed by Erecthei." Therefore Chtonia, the daughters together, were immortalized. The other sisters killed themselves, Erechtheus himself was hit by lightening. 
+Erechteus, the son of Pandionis, had four daughters. At that time, Eumolpus, son of Neptune, came to Athens to attack, but he was defeated. Neptune, angry because the son was killed Erecchtheo, said "the daughter was sacrificed by Erecthei." Therefore Chtonia, the daughters together, were immortalized. The other sisters killed themselves, Erechtheus himself was hit by lightening. 
