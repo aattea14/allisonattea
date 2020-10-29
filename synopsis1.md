@@ -1,3 +1,5 @@
+**Satisactory:  full credit**
+
 third singular active
 third singular passive
 second singular active
@@ -14,18 +16,18 @@ capio, capere, cepi, captus
 audio audīre, audivi, auditus
 
 third singular passive
-1) amatur, amabatur, amata est 
-2) ducitur, ducebatur, ducta est 
-3) auditur, audiebatur, audita est 
+1) amatur, amabatur, amata est
+2) ducitur, ducebatur, ducta est
+3) auditur, audiebatur, audita est
 4) capitur, capiebatur, capta est
 5) videtur, videbatur, visa est
 
-third person singular active 
+third person singular active
 1) amat, amabat, amavit
 2) ducit, ducebat, duxit
 3) audit, audiebat, audivit
 4) capit, capiebat, cepit
-5) videt, videbat, vidit 
+5) videt, videbat, vidit
 
 second singular passive
 1) amaris, amabaris, amata es
