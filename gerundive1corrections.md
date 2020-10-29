@@ -8,7 +8,7 @@
 2a. mittit
 2b. quaerendum
 2c. thyestem
-2d. masculine nominative singular **Check the ending carefully**
+2d. masculine accusative singular **Check the ending carefully**
 
 3a. missus est
 3b. adducendam
