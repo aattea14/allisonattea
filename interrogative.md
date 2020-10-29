@@ -1,3 +1,5 @@
+**Satisfactory: full credit**
+
 Statements to convert to questions:
 
 1)Prometheus homines ex luto fingebat.
