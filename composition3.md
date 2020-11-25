@@ -1,3 +1,5 @@
+**Please complete.**
+
 Use each word in the vocabulary list (next section) at least once.
 Your first sentence should express that Venus was secretly sleeping with Mars.
 Your second sentence should express that Vulcan had to expose the affair using a gerundive + “to be” (the “passive periphrastic”).
@@ -13,5 +15,6 @@ You must use at least two passive verbs.
 
 
 
-Venus cum Marte clam concumbebat. Factum Vulcano indicandum erat. Venus et Mars indicandi erant 
-
+Venus cum Marte clam concumbebat.
+Factum Vulcano indicandum erat.
+Venus et Mars indicandi erant.
