@@ -1,3 +1,5 @@
+**Needs revision**
+
 1a) past
 1b) subjunctive
 1c) imperfect
@@ -15,5 +17,5 @@
 
 4a) past
 4b) subjunctive
-4c) imperfect
+4c) imperfect **Check the form of this subjunctive verb**
 4d) earlier
