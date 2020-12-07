@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 third person singular perfect indicative active
 present active infinitive
 third singular present indicative active
@@ -12,5 +14,5 @@ third plural perfect indicative passive
 third singular perfect subjunctive passive
 third plural perfect subjunctive active
 third plural plurperfect subjunctive active
-third plural perfect passive subjunctive 
+third plural perfect passive subjunctive
 third singular plurperfect active subjunctive
