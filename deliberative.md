@@ -1,3 +1,6 @@
+**Satisfactory:  full credit**
+
+
 1a) necet
 1b) necaret
 2a) habeat
