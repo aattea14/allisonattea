@@ -17,5 +17,5 @@
 
 4a) past
 4b) subjunctive
-4c) imperfect **Check the form of this subjunctive verb**
+4c) pluperfect **Check the form of this subjunctive verb**
 4d) earlier
