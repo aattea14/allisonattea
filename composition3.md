@@ -15,6 +15,25 @@ You must use at least two passive verbs.
 
 
 
-Venus cum Marte clam concumbebat.
-Factum Vulcano indicandum erat.
-Venus et Mars indicandi erant.
+Venus cum Marte clam concumbebat. Factum Vulcano indicandum erat. Vulcano factrum adamas catena et catena circum lecti de Venus et Mars positus est.
+
+Venus et Mars et non viderunt eum
+
+adamas, adamantis, m. - adamant (the hardest form of iron or steel)
+catēna, catēnae, f. - chain
+circum (+ acc.) - around
+clam (indeclinable adv.) - in secret, secretly
+concumbō, concumbere, concubuī, concubitus - to sleep (in a sexual sense)
+deus, deī, m. - god
+dīvīnus, -a, -um - divine
+dolus, dolī, m. - trick, trickery, deceit
+errō, errāre, errāvī, errātus - to err, wander, make a mistake
+factum, factī, n. - deed
+indicō, indicāre, indicāvī, indicātus - to point out, show, indicate, expose
+lectus, lectī, m. - bed, couch
+Mars, Martis, m. - Mars (proper name - the god of war)
+ponō, ponere, posuī, positus - to place
+pudor, pudōris, m. - shame
+sentiō, sentīre, sensī, sensus - to feel, perceive
+Venus, Veneris, f. - Venus (proper name - the goddess of love)
+Vulcānus, Vulcānī, m. - Vulcan (proper name - the blacksmith god)
