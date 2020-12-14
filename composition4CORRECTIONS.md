@@ -10,24 +10,14 @@ Your first sentence should use an indirect statement to state that when Hercules
 complex sentence (main- lycus thought- and subordinate clause- when hercules was sent to fight Cerberus), perfect infinitive (to fight Cerberus= us ad+noun+gerundive )
 
 
-Cum Hercules misisse ad Cerberus pugnatum erant  **We need a finite verb after the conjunction *cum*.  The purpose idea "to fight Cerberus" needs (1) to put *Cerberus* in the accusative (after *ad*); and (2) to describe Cerberus with a gerundive.**
-Lycus putabat Herculem mortuum esse.
+Cum misisse Hercules ad Cerberum pugnatum erant Lycus putabat Herculem mortuum esse.
+**We need a finite verb after the conjunction *cum*.  The purpose idea "to fight Cerberus" needs (1) to put *Cerberus* in the accusative (after *ad*); and (2) to describe Cerberus with a gerundive.**
 
-
-
-
-Your second sentence should express that Lycus wanted to steal Hercules’ kingdom and kill his family.
-Lycus ____ **We'll look at this in class.**
+Lycus voluit amovio regnum de Herculem et familia interficio 
+**We'll look at this in class.**
 et familia interficio. **What forms are the words *familia* and *interficio*?**
 
-Your third sentence should use a cum clause with the correct tense of the subjunctive to say that when Hercules heard of Lycus’ plan he returned and killed him.
-Cum Hercules
+Cum Hercules auditus est de consilium Lycum ei reverti et ei interfeci est. Herculum punitum ab Juno que ab ei malus actio. Hercules mentis ab Juno insanum erant et ei familia interficio. Hercules non volo vivo et servitium datus est.
 
-Your fourth sentence should state that Hercules was punished by Juno because of his bad deed using a passive verb.
-by Juno= a/ab+ablative passive voice verb
 
-Your fifth sentence should express that Hercules’ mind was possessed by Juno and that he killed his family.
-passive, he killed his family= subject-verb-object
 
-Your sixth sentence should say that following this event, Hercules did not want to live and was given into slavery.
-Your sentences should include at least two verbs in the subjunctive, three irregular verbs, and three pronouns.
