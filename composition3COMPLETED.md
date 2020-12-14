@@ -15,7 +15,7 @@ You must use at least two passive verbs.
 
 
 
-Venus cum Marte clam concumbebat. Factum Vulcano indicandum erat. Vulcano factrum adamas catena et catena circum lecti de Venus et Mars positus est. Venus et Mars et eum non viderunt. Id non potuisse fugae ab lecto. Deus vocavit erant ab voluntatum ei videbat. Mars sentior podur quia ab re. "Amare divinum est, errate humanum est."
+Venus cum Marte clam concumbebat. Factum Vulcano indicandum erat. Vulcanus catenam adamantis fecit et catena posita est circum lectum Veneris et Martis. Venus et Mars eam non viderunt. Id non potuisse fugae ab lecto. Deus vocavit erant ab voluntatum ei videbat. Mars sentior podur quia ab re. "Amare divinum est, errate humanum est."
 
 
 
