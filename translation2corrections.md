@@ -23,6 +23,6 @@ Please translate the passage into idiomatic English.
 **Use the nominative case of names when translating into English**
 
 Long ago, Prometheus, the first son of Iapetus, was a man fashioned out of mud. Simultaneously, Vulcan created a woman out of mud. Minerva gave a soul to this woman
-and sent each god gifts. **What case is *omnes dei*?  What number is the verb?**
+and the gods gave gifts. **What case is *omnes dei*?  What number is the verb?**
 
  Hence the name "Pandora" was given to her. Pandora was given by Jupiter to Epimetheus in marriage. Her daughter was Pyrrha, the first mortal.
