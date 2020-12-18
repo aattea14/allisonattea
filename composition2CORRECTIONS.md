@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory:  full credit**
 
 Use each of the following names or nouns at least once:
 Prometheus, Prometheī, m. - Prometheus
@@ -23,7 +23,7 @@ You must use at least one personal pronoun
 
 4) Aquila petebat cor Promethei.
 
-5) Hercules eam interficit. 
+5) Hercules eam interfecit. 
 
 
 
