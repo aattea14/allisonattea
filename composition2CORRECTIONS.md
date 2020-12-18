@@ -15,15 +15,15 @@ You must use at least two verbs in the passive voice.
 You must use at least one personal pronoun
 
 
-Prometheus cepi ignis ab deos. **1) What case is *ignis*?  2) What form is *dis*?  3) *capiebat* is the correct form of the imperfect tense.  Why did you choose that rather than perfect?** (changed to perfect tense)(gods- to accusative)
+1) Prometheus ignem cepit a deis. 
 
-Prometheus dedi ignum ab homini. **1) To give = "do, dare, dedi, datus".  2) In the English sentence "Prometheus gave fire to mankind", what is the grammatical function of "fire" and "to mankind"?** (to all of mankind= indirect object= use dative) (direct object=fire= accusative) 
+2) Prometheus ignem homini dedit. 
 
+3) Prometheus puniebatur a deis.
 
-Deos punivi Prometheus ad hoc.   **Where is subject, verb and direct object in this sentence?** (changed)
+4) Aquila petebat cor Promethei.
 
-Aquila petebat cordis Promethei. **What case is *cordis*?** genitive- isnt is supposed to be? 
+5) Hercules eam interficit. 
 
-Hercules interfici aquilam.  **What case is *aquila*?  You again have the correct form of the imperfect tense, but I'm curious why you chose imperfect rather than perfect.** (changed to perfect)
 
 
