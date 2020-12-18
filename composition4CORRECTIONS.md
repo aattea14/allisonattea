@@ -20,4 +20,4 @@ et familia interficio. **What forms are the words *familia* and *interficio*?**
 Cum Hercules auditus est de consilium Lycum ei reverti et ei interfeci est. Herculum punitum ab Juno que ab ei malus actio. Hercules mentis ab Juno insanum erant et ei familia interficio. Hercules non volo vivo et servitium datus est.
 
 
-
+Lycus, filius Neptuni, putabat Hercules morisse cum Eurystheus miserit Herculem ut Cereberum, tricepitem canem interficeret. ideo, Lycus volebat et interficare Herculis familia et expugnare regnum. Cum Hercules cognoverit, Lycum celeriter interfecit. Propter horribilum factum, Hercules Junonem punitus est. Juno coegit Herculem interficere et sui uxem, Megara, et filium, Creonque Therimachus. Postea, Hercules noluit vivare itaque in servitum didebatur. 
