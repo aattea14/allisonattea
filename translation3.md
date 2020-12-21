@@ -1,4 +1,4 @@
-**Needs revision**
+**Satisfactory: full credit**
 
 
 
@@ -17,8 +17,8 @@ ablative- it is about the exact moment
 - What part of speech is oppugnandās?
 gerundive
 - What idea does Athenas oppugnandās express? The idea is that Athens must be the place to attack
-- Parse (PNTMV) interfectus est. perfect, singular, 3rd person, passive, indicative 
-- What kind of construction is immolanda est? passive periphrastic... gerundive + to be 
+- Parse (PNTMV) interfectus est. perfect, singular, 3rd person, passive, indicative
+- What kind of construction is immolanda est? passive periphrastic... gerundive + to be
 - Parse (GCN) ceterae sorōrēs. ceterae- nominative, plural, feminine, adjective.  sorores- nominative plural feminine
 - What type of construction is ab fulmine? prepositional phrase
 
