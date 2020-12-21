@@ -19,14 +19,15 @@ B. Grammatical Questions
 
 - What case is eius and to what does it refer? genitive and refers to Chaos
 - What type of word is haec ? demonstrative pronoun
-- To whom does illius refer? chaos 
+- To whom does illius refer? chaos
 - What case, number, and gender is monstra? nominative, plural, neuter
 - What declension does the word dracōnēs belong to? 3rd
-- What case and number is eorum and to whom does it refer? genitive plural- their brother 
+- What case and number is eorum and to whom does it refer? genitive plural- their brother
 - What declension does the word dracōnēs belong to? 3rd
-- What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum? erat 
+- What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum? erat
 
 C. Translation
 Please translate the passage into idiomatic English.
 
-Chaos was the first god. His daughters, Nox and Terra, were the mother of all men. This was the mother of Mors and Letum. His sons were horrible monsters: Typhon, Python, and the Cyclopes. Typhon and Python were huge dragons and the Cyclopes were foolish stoneworkers. However, their brother Uranus was the first king of the gods himself. He was strong and large, but rational.
+Chaos was the first god. His daughters, Nox and Terra, were the mother of all men. **Not quite**
+This was the mother of Mors and Letum. His sons were horrible monsters: Typhon, Python, and the Cyclopes. Typhon and Python were huge dragons and the Cyclopes were foolish stoneworkers. However, their brother Uranus was the first king of the gods himself. He was strong and large, but rational.
