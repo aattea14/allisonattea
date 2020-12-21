@@ -1,4 +1,4 @@
-**Needs revision**
+**Satisfactory:  full credit**
 
 1a) past
 1b) subjunctive
@@ -17,5 +17,5 @@
 
 4a) past
 4b) subjunctive
-4c) pluperfect **Check the form of this subjunctive verb**
+4c) pluperfect
 4d) earlier
