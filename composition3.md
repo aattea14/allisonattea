@@ -1,4 +1,4 @@
-**Please complete.**
+**Satisfactory: full credit.**
 
 Use each word in the vocabulary list (next section) at least once.
 Your first sentence should express that Venus was secretly sleeping with Mars.
